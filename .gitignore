@@ -1,0 +1,10 @@
+/__pycache__
+/.idea
+/Dummy Files
+/models
+data_test.csv
+Final_DataSet.csv
+KeyFile.txt
+train.csv
+random.txt
+ScrapedNews.csv
